@@ -13,14 +13,16 @@
 Да, он не масштабируемый. Можно разве что поскролить его по двум координатам. Я знал на каких мониторах будет запускаться программа:
 - v1.0: 2560x1440 с системным масштабированием 100%
 <img src="attachment/view_v1.0.png" alt="predict window v1.0" height="500"/>
+
 - v2.0: 2560x1440 с системным масштабированием 100-125%
-- <img src="attachment/view_v2.0.png" alt="predict window v1.0" height="500"/>
+<img src="attachment/view_v2.0.png" alt="predict window v1.0" height="500"/>
 
 ## Отличия v1.0 от v2.0
 - Уменьшен размер интерфейса, чтобы меньше пользоваться скроллом
 - Некоторые элементы интерфейса перешли на верхнее меню
 - В окне предсказаний текст заменён на графики. Это сделало окно компактнее и информативнее \
 <img src="attachment/predict_window_v1.0.png" alt="predict window v1.0" height="300"/> => <img src="attachment/predict_window_v2.0.png" alt="predict window v2.0" height="300"/>
+
 - Удалено окно баланса. Оно было не эффективно
 <img src="attachment/balance_window_v1.0.png" alt="predict window v2.0" height="300"/>
 
