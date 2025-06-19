@@ -12,17 +12,18 @@
 ## Условия для которых создавался интерфейс
 Да, он не масштабируемый. Можно разве что поскролить его по двум координатам. Я знал на каких мониторах будет запускаться программа:
 - v1.0: 2560x1440 с системным масштабированием 100%
-![default view v1.0](attachment/view_v1.0.png)
+<img src="attachment/view_v1.0.png" alt="predict window v1.0" height="500"/>
 - v2.0: 2560x1440 с системным масштабированием 100-125%
-![default view v2.0](attachment/view_v2.0.png)
+- <img src="attachment/view_v2.0.png" alt="predict window v1.0" height="500"/>
+
 ## Отличия v1.0 от v2.0
 - Уменьшен размер интерфейса, чтобы меньше пользоваться скроллом
 - Некоторые элементы интерфейса перешли на верхнее меню
-- В окне предсказаний текст заменён на графики. Это сделало окно компактнее и информативнее
-![predict window v1.0](attachment/predict_window_v1.0.png)
-![predict window v2.0](attachment/predict_window_v2.0.png)
+- В окне предсказаний текст заменён на графики. Это сделало окно компактнее и информативнее \
+<img src="attachment/predict_window_v1.0.png" alt="predict window v1.0" height="300"/> => <img src="attachment/predict_window_v2.0.png" alt="predict window v2.0" height="300"/>
 - Удалено окно баланса. Оно было не эффективно
-![balance window v1.0](attachment/balance_window_v1.0.png)
+<img src="attachment/balance_window_v1.0.png" alt="predict window v2.0" height="300"/>
+
 ## Технологии
 - tkinter
 ## Проблемы
